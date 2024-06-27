@@ -1,2 +1,6 @@
 C:\Users\user\Desktop\TP Licence\Collaboratif\TPlicence\TPlicence\bin\Debug\TPlicence.exe.config
+<<<<<<< HEAD
 C:\Users\san\OneDrive\Desktop\TP Travail collaboratif\Collaboratif\Collaboratif\TPlicence\TPlicence\bin\Debug\TPlicence.exe.config
+=======
+C:\Users\lenovo\OneDrive\Documents\VB.NET\TP_GItHub\Collaboratif\TPlicence\TPlicence\bin\Debug\TPlicence.exe.config
+>>>>>>> 1e2d985785c0bd4e3ea29cfb82175133a25f4172
